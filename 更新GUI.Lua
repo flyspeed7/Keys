@@ -100,7 +100,7 @@ Title.BorderSizePixel = 0
 Title.Position = UDim2.new(0, 0, 0.00999999978, 0)
 Title.Size = UDim2.new(0, 200, 0, 50)
 Title.Font = Enum.Font.SourceSans
-Title.Text = "凌-更新日志📄"
+Title.Text = "更新日志"
 Title.TextColor3 = Color3.fromRGB(206, 206, 206)
 Title.TextSize = 43.000
 
@@ -159,7 +159,7 @@ Description.BorderSizePixel = 0
 Description.Position = UDim2.new(0.210526317, 0, -0.0340909101, 0)
 Description.Size = UDim2.new(0, 131, 0, 50)
 Description.Font = Enum.Font.SourceSans
-Description.Text = "日志文件↓"
+Description.Text = "凌-V1日志文件↓"
 Description.TextColor3 = Color3.fromRGB(227, 227, 227)
 Description.TextSize = 24.000
 
@@ -172,7 +172,7 @@ Content.BorderSizePixel = 0
 Content.Position = UDim2.new(-0.175438598, 0, 0.107954547, 0)
 Content.Size = UDim2.new(0, 200, 0, 50)
 Content.Font = Enum.Font.SourceSans
-Content.Text = "1. 更新河北糖馅刷钱 \n 2.刀刃球脚本 bug 问题"
+Content.Text = "   1. 更新河北糖馅刷钱 \n   2.刀刃球脚本 bug 问题 \n   添加了通用,玩家"
 Content.TextColor3 = Color3.fromRGB(227, 227, 227)
 Content.TextSize = 19.000
 
